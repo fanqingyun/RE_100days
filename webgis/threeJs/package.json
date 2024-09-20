@@ -1,0 +1,19 @@
+{
+    "name": "three.js",
+    "version": "1.0.0",
+    "description": "a demo about three.js",
+    "main": "index.js",
+    "repository": "https://github.com/fanqingyun/RE_100days.git",
+    "author": "fanqingyun",
+    "license": "MIT",
+    "scripts": {
+        "dev": "npx vite",
+        "build": "npx vite build"
+    },
+    "dependencies": {
+        "three": "^0.168.0"
+    },
+    "devDependencies": {
+        "vite": "^5.4.6"
+    }
+}
